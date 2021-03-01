@@ -1,0 +1,12 @@
+dictionnaire de données pour la base de donées villagegreen
+
+- clients
+- produits
+- catégories
+- employees
+- roles
+- services
+- commandes
+- commandes détailés
+- fourniseur
+- livraison
